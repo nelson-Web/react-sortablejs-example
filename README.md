@@ -18,8 +18,8 @@ git clone https://github.com/nelson-Web/react-sortablejs-example.git
 
 #### Author del ejemplo:
 
-Github: [https://github.com/Nelson-developer](https://github.com/Nelson-developer)
-codepen: [https://codepen.io/nelson-developer](https://codepen.io/nelson-developer)
+* Github: [https://github.com/Nelson-developer](https://github.com/Nelson-developer)
+* codepen: [https://codepen.io/nelson-developer](https://codepen.io/nelson-developer)
 
 
 ![sortable js con una lista](https://res.cloudinary.com/nelsonweb/image/upload/v1586359543/1_r6rkiv.gif)
